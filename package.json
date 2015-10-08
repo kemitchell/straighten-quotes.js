@@ -1,0 +1,19 @@
+{
+  "name": "straighten-quotes",
+  "description": "convert curly to straight quotes",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "devDependencies": {
+    "straight-to-curly-quotes": "1.x"
+  },
+  "keywords": [
+    "quotation marks",
+    "quotes",
+    "typography"
+  ],
+  "license": "MIT",
+  "repository": "kemitchell/straighten-quotes.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
